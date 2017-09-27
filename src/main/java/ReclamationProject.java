@@ -22,7 +22,7 @@ public class ReclamationProject {
         if (a.length() > b.length()) {
             String tempA = a;
             String tempB = b;
-            String tempC = c;
+
             }
         String r = "";
         /*
